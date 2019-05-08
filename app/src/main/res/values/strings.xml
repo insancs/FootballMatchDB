@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Football MatchDB</string>
+    <string name="arsenal">Arsenal</string>
+    <string name="date">Date</string>
+    <string name="nol">0</string>
+    <string name="vs">vs</string>
+    <string name="chelsea">Chelsea</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="lineup">Lineup</string>
+    <string name="gool_keeper">Goal Keeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="last_match">Last Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_favorite">Successfully added to Favorite list</string>
+    <string name="remove_favorite">Match has been remove from Favorite list</string>
+</resources>

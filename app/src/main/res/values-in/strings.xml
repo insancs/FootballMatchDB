@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date">Date</string>
+    <string name="vs">vs</string>
+    <string name="goals">Goal</string>
+    <string name="shots">Tendangan</string>
+    <string name="lineup">Barisan</string>
+    <string name="gool_keeper">Penjaga Gawang</string>
+    <string name="defense">Bertahan</string>
+    <string name="midfield">Gelandang</string>
+    <string name="forward">Pengerang</string>
+    <string name="subtitutes">Pengganti</string>
+    <string name="last_match">Pertandingan Terakhir</string>
+    <string name="next_match">Pertandingan Selanjutnya</string>
+    <string name="favorite">Favorit</string>
+    <string name="add_favorite">Berhasil ditambahkan ke daftar favorit</string>
+    <string name="remove_favorite">Pertandingan dihapus dari daftar favorit</string>
+</resources>

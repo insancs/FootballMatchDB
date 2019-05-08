@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_previous"
+        android:enabled="true"
+        android:icon="@drawable/ic_event_available"
+        android:title="@string/last_match" />
+    <item
+        android:id="@+id/nav_next"
+        android:enabled="true"
+        android:icon="@drawable/ic_event"
+        android:title="@string/next_match"
+        />
+    <item
+        android:id="@+id/nav_favorite"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/favorite"
+        />
+</menu>
